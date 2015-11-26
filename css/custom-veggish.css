@@ -1,4 +1,8 @@
-img{
-	padding-left:75px;
-	padding-right:75px;
+
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+	display:block;
+	margin:auto;
+	max-width:820px;
+	padding:5px;
 }
