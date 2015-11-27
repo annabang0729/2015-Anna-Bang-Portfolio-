@@ -1,0 +1,6 @@
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+	display:block;
+	margin:auto;
+	max-width:690px;
+	padding:5px;
+}

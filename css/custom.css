@@ -12,7 +12,7 @@ a:hover{
 	color:black;
 }
 
-img{
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
 	display:block;
 	margin:auto;
 	padding:5px;
@@ -52,6 +52,7 @@ img{
 	padding:10px;
 }
 
+<<<<<<< HEAD
 .small-padding{
 	padding:6px;
 }
@@ -68,6 +69,12 @@ img{
 }
 
 video{
+=======
+.video{
+	width:680px;
+>>>>>>> origin/gh-pages
 	display:block;
 	margin: 0 auto;
 }
+
+
